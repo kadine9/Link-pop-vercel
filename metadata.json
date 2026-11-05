@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix symmetrical-arm",
+  "description": "Imported from GitHub: kadine9/symmetrical-arm",
+  "request_feedback": false,
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
